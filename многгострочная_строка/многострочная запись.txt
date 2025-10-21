@@ -1,0 +1,1 @@
+PS C:\Users\pola0\Desktop\practica> md papka_1; cd papka_1; ni text.txt; ni city.pptx; "i was born in Sayansk">>text.txt;md deap; cd deap; ni proga.txt; "love IT" >> proga.txt; cd..; rm text.txt

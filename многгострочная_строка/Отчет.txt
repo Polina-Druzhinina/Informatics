@@ -1,0 +1,25 @@
+Отчет по заданию: Сформировать файл с пакетом команд и организовать запуск пакета
+@echo off
+
+md Test 
+cd Test
+echo > file_1.txt
+echo > program.pptx
+echo file >> file_1.txt
+
+md deap
+cd deap
+echo > file_1.txt
+echo > table.xlsx
+
+md over_deap
+cd over_deap
+echo > klmmn.txt
+
+cd..
+del file_1.txt
+
+cd..
+del program.pptx
+
+cd..
